@@ -1,5 +1,5 @@
 ---
-title: "Agent Skill作成時の雑なTips 3選"
+title: "【Claude Code】Agent Skill作成時の雑なTips 3選"
 emoji: "💻"
 type: "tech"
 topics: [ClaudeCode, AI, AgentSkill, 生成AI]
