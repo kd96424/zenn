@@ -3,7 +3,7 @@ title: "Agent Skill作成時の雑なTips 3選"
 emoji: "💻"
 type: "tech"
 topics: [ClaudeCode, AI, AgentSkill, 生成AI]
-published: false
+published: true
 ---
 # 記事の概要
 Skillを書いていて困るのは、**修正するたびにSkillそのものの品質がどうなっているのかが分からない** ことである。
