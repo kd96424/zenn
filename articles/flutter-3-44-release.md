@@ -1,5 +1,5 @@
 ---
-title: "【Flutter】v3.44.0の変更点まとめ"
+title: "【Flutter】3.44.0リリースの変更点まとめ"
 emoji: "💻"
 type: "tech"
 topics: [Flutter, Dart, Google, AI]
