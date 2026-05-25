@@ -5,7 +5,6 @@ type: "tech"
 topics: [Flutter, Dart, Google, AI]
 published: true
 ---
-![Flutter 3.44](/images/flutter_3_44_hero.png =600x)
 
 # 記事の概要
 Google I/O 2026のタイミングで、Flutter 3.44がリリースされた。今回は「新機能の派手さ」よりも、**普段の開発体験を変える**アップデートが多めの印象。
