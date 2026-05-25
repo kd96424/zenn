@@ -1,6 +1,6 @@
 ---
 title: "【Flutter】3.44.0リリースの変更点まとめ"
-emoji: "💻"
+emoji: "💙"
 type: "tech"
 topics: [Flutter, Dart, Google, AI]
 published: true
