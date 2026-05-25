@@ -3,7 +3,7 @@ title: "Flutter 3.44.0の変更点まとめ"
 emoji: "💙"
 type: "tech"
 topics: [Flutter, Dart, Google, AI]
-published: false
+published: true
 ---
 ![Flutter 3.44](/images/flutter_3_44_hero.png =600x)
 
